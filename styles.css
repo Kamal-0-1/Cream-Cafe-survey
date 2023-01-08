@@ -36,14 +36,17 @@ label{
 }
 select{
   border-radius:5px;
-  height:30px;
+  height:35px;
   margin:5px 0;
   width:40%;
   display:block;
 }
+option{
+    font-size:large;
+}
 .first{
   padding-left:8px;
-  width:100%;
+  width:75%;
   margin:6px 0;
   display:block;
   border:1px solid black;
